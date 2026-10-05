@@ -1,0 +1,8 @@
+{
+  "name": "Ubora OpEx Solutions",
+  "description": "Ideas. Solutions. Results. Management consulting, Lean Six Sigma, e-learning courses, eBooks, and 1:1 expert operational excellence consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
